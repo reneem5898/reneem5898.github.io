@@ -1,2 +1,4 @@
 name: Renee Miller, PhD
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
